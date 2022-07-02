@@ -1,6 +1,8 @@
 # QAOA-clustering-with-QFM
 
-Announcement: I am currently running the actual hardware backend using Qiskit so the code and result will be uploaded by end of July.
+Announcement: This project was done at QHackathon 2022 during QWeek 2022, the biggest quantum computing event in South Korea including International Conference on Quantum Computing (ICQC) 2022.
+
+I am currently running the actual hardware backend using Qiskit so the code and result will be uploaded by end of July.
 
 # Report
 
